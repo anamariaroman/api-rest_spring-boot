@@ -5,7 +5,7 @@
 
 ---
 
-### 🔍 Description 🔍
+# 🔍 Description 🔍
 
 Api-rest made up of methods for the implementation of the POST method, validating various formats and once these are rectified they will be stored in a database
 
@@ -30,7 +30,7 @@ This project was rendered on Ubuntu 20.04 LTS using jdk 11.0.11, Spring tools, P
 
 # 👩 Author
 
-- Ana María Román Valencia [Github] (https://github.com/anamariaroman) | [Twiter] (https://twitter.com/AnaMari77939013)
+- Ana María Román Valencia [Github](https://github.com/anamariaroman) | [Twiter](https://twitter.com/AnaMari77939013)
 
 ---
 
