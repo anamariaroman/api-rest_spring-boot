@@ -22,7 +22,7 @@ This project was rendered on Ubuntu 20.04 LTS using jdk 11.0.11, Spring tools, P
 1. Clone this repository on your personal computer or machine with the following command:
     `git@github.com: anamariaroman / api-rest_spring-boot.git`
 
-2. Run in IDE pts
+2. Run in Spring Tool Suite IDE
 
     `Right click the project> Run as> Spring Boot Application`
 
